@@ -1,0 +1,77 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "D:\\Users\\nutvismunt\\Desktop\\Freelance\\PadillionRadio\\PadillionRadio\\PadillionRadio.csproj",
+    "projectName": "PadillionRadio",
+    "projectPath": "D:\\Users\\nutvismunt\\Desktop\\Freelance\\PadillionRadio\\PadillionRadio\\PadillionRadio.csproj",
+    "outputPath": "D:\\Users\\nutvismunt\\Desktop\\Freelance\\PadillionRadio\\PadillionRadio\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+      "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "net50"
+    ],
+    "sources": {
+      "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp5.0": {
+        "projectReferences": {
+          "D:\\Users\\nutvismunt\\Desktop\\Freelance\\PadillionRadio\\PadillionRadio.Business\\PadillionRadio.Business.csproj": {
+            "projectPath": "D:\\Users\\nutvismunt\\Desktop\\Freelance\\PadillionRadio\\PadillionRadio.Business\\PadillionRadio.Business.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp5.0": {
+      "dependencies": {
+        "Autofac.Extensions.DependencyInjection": {
+          "target": "Package",
+          "version": "[7.1.0, )"
+        },
+        "Microsoft.EntityFrameworkCore.Tools": {
+          "target": "Package",
+          "version": "[5.0.8, )"
+        },
+        "Npgsql.EntityFrameworkCore.PostgreSQL": {
+          "target": "Package",
+          "version": "[5.0.7, )"
+        },
+        "Swashbuckle.AspNetCore": {
+          "target": "Package",
+          "version": "[5.6.3, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true,
+      "frameworkReferences": {
+        "Microsoft.AspNetCore.App": {
+          "privateAssets": "none"
+        },
+        "Microsoft.NETCore.App": {
+          "privateAssets": "all"
+        }
+      },
+      "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+    }
+  }
+}

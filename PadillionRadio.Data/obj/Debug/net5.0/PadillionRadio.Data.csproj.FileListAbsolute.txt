@@ -1,0 +1,16 @@
+D:\Users\nutvismunt\Desktop\Freelance\PadillionRadio\PadillionRadio.Data\bin\Debug\net5.0\PadillionRadio.Data.deps.json
+D:\Users\nutvismunt\Desktop\Freelance\PadillionRadio\PadillionRadio.Data\bin\Debug\net5.0\PadillionRadio.Data.runtimeconfig.json
+D:\Users\nutvismunt\Desktop\Freelance\PadillionRadio\PadillionRadio.Data\bin\Debug\net5.0\PadillionRadio.Data.runtimeconfig.dev.json
+D:\Users\nutvismunt\Desktop\Freelance\PadillionRadio\PadillionRadio.Data\bin\Debug\net5.0\PadillionRadio.Data.dll
+D:\Users\nutvismunt\Desktop\Freelance\PadillionRadio\PadillionRadio.Data\bin\Debug\net5.0\ref\PadillionRadio.Data.dll
+D:\Users\nutvismunt\Desktop\Freelance\PadillionRadio\PadillionRadio.Data\bin\Debug\net5.0\PadillionRadio.Data.pdb
+D:\Users\nutvismunt\Desktop\Freelance\PadillionRadio\PadillionRadio.Data\obj\Debug\net5.0\PadillionRadio.Data.csproj.AssemblyReference.cache
+D:\Users\nutvismunt\Desktop\Freelance\PadillionRadio\PadillionRadio.Data\obj\Debug\net5.0\PadillionRadio.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\nutvismunt\Desktop\Freelance\PadillionRadio\PadillionRadio.Data\obj\Debug\net5.0\PadillionRadio.Data.AssemblyInfoInputs.cache
+D:\Users\nutvismunt\Desktop\Freelance\PadillionRadio\PadillionRadio.Data\obj\Debug\net5.0\PadillionRadio.Data.AssemblyInfo.cs
+D:\Users\nutvismunt\Desktop\Freelance\PadillionRadio\PadillionRadio.Data\obj\Debug\net5.0\PadillionRadio.Data.csproj.CoreCompileInputs.cache
+D:\Users\nutvismunt\Desktop\Freelance\PadillionRadio\PadillionRadio.Data\obj\Debug\net5.0\PadillionRadio.Data.dll
+D:\Users\nutvismunt\Desktop\Freelance\PadillionRadio\PadillionRadio.Data\obj\Debug\net5.0\ref\PadillionRadio.Data.dll
+D:\Users\nutvismunt\Desktop\Freelance\PadillionRadio\PadillionRadio.Data\obj\Debug\net5.0\PadillionRadio.Data.pdb
+D:\Users\nutvismunt\Desktop\Freelance\PadillionRadio\PadillionRadio.Data\obj\Debug\net5.0\PadillionRadio.Data.genruntimeconfig.cache
+D:\Users\nutvismunt\Desktop\Freelance\PadillionRadio\PadillionRadio.Data\bin\Debug\net5.0\Properties\launchSettings.json

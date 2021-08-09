@@ -1,0 +1,28 @@
+﻿@model IEnumerable<PadillionRadio.Business.Models.UserModel>
+
+@{
+    ViewBag.Title = "PADLILIONRADIO CLIENT";
+    Layout = "_Layout";
+}
+<div class="text-center">
+    <h1 class="display-4">PADLILIONRADIO CLIENT</h1>
+</div>
+
+<form asp-controller="Home" asp-action="Index" style="text-align:left">
+
+    <a asp-action="AddUser" asp-controller="Home" >Создать юзера</a>
+    
+    <table class="table">
+        @foreach (var item in Model)
+        {
+            <input type="hidden" name="id" value="@item.Id" />
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Email</td>
+                <td><a asp-action="EditUser" asp-controller="Home" asp-route-id="@item.Id">Редактировать</a></td>
+                <td><a asp-action="DeleteUser" asp-controller="Home" method="post">Удалить</a></td>
+            </tr>
+        }
+    </table>
+
+</form>
